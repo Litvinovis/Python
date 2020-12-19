@@ -1,2 +1,2 @@
-profit = 12
-print(1 + ((profit / 12) / 100))
+profit = 123456789.557788
+print(f"{profit:,.2f}$")
