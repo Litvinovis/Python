@@ -43,5 +43,4 @@ elif (b == '%'):
 	result = rest(a, c)
 else:
 	print("Введен некорректный знак операции")
-	exit
 print(f"Ответ = {result}")
